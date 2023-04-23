@@ -24,7 +24,7 @@
         <p>Como trabajar con git</p>
 
         <p>
-            Segunda prueba del git
+            Juan me debe un bsito
         </p>
     </body>
 </html>
