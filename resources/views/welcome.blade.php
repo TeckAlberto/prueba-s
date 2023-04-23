@@ -20,5 +20,7 @@
     </head>
     <body class="antialiased">
         <h1>SkillUp</h1>
+
+        <p>Como trabajar con git</p>
     </body>
 </html>
